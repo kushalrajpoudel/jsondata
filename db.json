@@ -1,4 +1,4 @@
-{
+[{
   "id": "10",
   "person": {
     "accnum": "1000020",
@@ -23,4 +23,4 @@
       "home": "hello@world.com"
     }
   }
-}
+}]
