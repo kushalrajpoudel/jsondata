@@ -1,1 +1,1 @@
-[{"id": "10","person": {"accnum": "1000020","accounttype": {"checkin": {"routing": 30110093,"swift": "BASIT"}}},"address": {"city": "newyork","zipcode": "90909","state": "newyork"},"contact": {"phone"{"home": "9090909090","work": "1231231233"},"email": {"home": "hello@world.com"}}}]
+{"id": "10","person": {"accnum": "1000020","accounttype": {"checkin": {"routing": 30110093,"swift": "BASIT"}}},"address": {"city": "newyork","zipcode": "90909","state": "newyork"},"contact": {"phone"{"home": "9090909090","work": "1231231233"},"email": {"home": "hello@world.com"}}}
